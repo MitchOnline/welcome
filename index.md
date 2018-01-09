@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to this page
 
-You can use the [editor on GitHub](https://github.com/MitchOnline/welcome/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+We were made in 2018 09.01.2018 and are a gaming website for gamers. We are currently trying to get the most out of our future players that will come. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
